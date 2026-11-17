@@ -140,6 +140,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="mian.c" />
+    <ClCompile Include="prac1.c" />
+    <ClCompile Include="prac2.c" />
+    <ClCompile Include="prac3.c" />
+    <ClCompile Include="prac4.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

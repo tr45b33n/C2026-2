@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Jeongbeen\\uos\\C2026-2\\week11\\Project1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F24B98AA-B7E3-4898-ADE0-D04300C136F5}|Project1\\Project1.vcxproj|C:\\Jeongbeen\\uos\\C2026-2\\week11\\Project1\\Project1\\prac4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F24B98AA-B7E3-4898-ADE0-D04300C136F5}|Project1\\Project1.vcxproj|solutionrelative:Project1\\prac4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24B98AA-B7E3-4898-ADE0-D04300C136F5}|Project1\\Project1.vcxproj|C:\\Jeongbeen\\uos\\C2026-2\\week11\\Project1\\Project1\\prac3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F24B98AA-B7E3-4898-ADE0-D04300C136F5}|Project1\\Project1.vcxproj|solutionrelative:Project1\\prac3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F24B98AA-B7E3-4898-ADE0-D04300C136F5}|Project1\\Project1.vcxproj|C:\\Jeongbeen\\uos\\C2026-2\\week11\\Project1\\Project1\\mian.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F24B98AA-B7E3-4898-ADE0-D04300C136F5}|Project1\\Project1.vcxproj|solutionrelative:Project1\\mian.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24B98AA-B7E3-4898-ADE0-D04300C136F5}|Project1\\Project1.vcxproj|C:\\Jeongbeen\\uos\\C2026-2\\week11\\Project1\\Project1\\prac1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F24B98AA-B7E3-4898-ADE0-D04300C136F5}|Project1\\Project1.vcxproj|solutionrelative:Project1\\prac1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24B98AA-B7E3-4898-ADE0-D04300C136F5}|Project1\\Project1.vcxproj|C:\\Jeongbeen\\uos\\C2026-2\\week11\\Project1\\Project1\\prac2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F24B98AA-B7E3-4898-ADE0-D04300C136F5}|Project1\\Project1.vcxproj|solutionrelative:Project1\\prac2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +35,68 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "prac4.c",
+              "DocumentMoniker": "C:\\Jeongbeen\\uos\\C2026-2\\week11\\Project1\\Project1\\prac4.c",
+              "RelativeDocumentMoniker": "Project1\\prac4.c",
+              "ToolTip": "C:\\Jeongbeen\\uos\\C2026-2\\week11\\Project1\\Project1\\prac4.c",
+              "RelativeToolTip": "Project1\\prac4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-17T09:28:27.275Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "prac3.c",
+              "DocumentMoniker": "C:\\Jeongbeen\\uos\\C2026-2\\week11\\Project1\\Project1\\prac3.c",
+              "RelativeDocumentMoniker": "Project1\\prac3.c",
+              "ToolTip": "C:\\Jeongbeen\\uos\\C2026-2\\week11\\Project1\\Project1\\prac3.c",
+              "RelativeToolTip": "Project1\\prac3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-17T09:25:52.435Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "prac2.c",
+              "DocumentMoniker": "C:\\Jeongbeen\\uos\\C2026-2\\week11\\Project1\\Project1\\prac2.c",
+              "RelativeDocumentMoniker": "Project1\\prac2.c",
+              "ToolTip": "C:\\Jeongbeen\\uos\\C2026-2\\week11\\Project1\\Project1\\prac2.c",
+              "RelativeToolTip": "Project1\\prac2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-17T09:25:04.12Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "prac1.c",
+              "DocumentMoniker": "C:\\Jeongbeen\\uos\\C2026-2\\week11\\Project1\\Project1\\prac1.c",
+              "RelativeDocumentMoniker": "Project1\\prac1.c",
+              "ToolTip": "C:\\Jeongbeen\\uos\\C2026-2\\week11\\Project1\\Project1\\prac1.c",
+              "RelativeToolTip": "Project1\\prac1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-17T09:24:23.805Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%3"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "mian.c",
               "DocumentMoniker": "C:\\Jeongbeen\\uos\\C2026-2\\week11\\Project1\\Project1\\mian.c",
               "RelativeDocumentMoniker": "Project1\\mian.c",
               "ToolTip": "C:\\Jeongbeen\\uos\\C2026-2\\week11\\Project1\\Project1\\mian.c",
               "RelativeToolTip": "Project1\\mian.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-11-17T08:54:00.645Z",
               "EditorCaption": "",
